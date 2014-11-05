@@ -1,0 +1,906 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Timeliner\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-14 07:03+0100\n"
+"PO-Revision-Date: 2014-10-14 07:03+0100\n"
+"Last-Translator: DJMiMi <milutinjaric@gmail.com>\n"
+"Language-Team: DJMiMi <milutinjaric@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: en_US\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\timeliner\\wp-content\\themes\\timeliner\n"
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/comments.php:19
+msgid "No Comments"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/comments.php:19
+msgid "1 Comment"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/comments.php:19
+msgid "% Comments"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/comments.php:51
+msgid "Comment page: "
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/comments.php:65
+msgid "Leave Comment"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/comments.php:73
+msgid "Send Comment"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/comments.php:77
+msgid "Name"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/comments.php:80
+msgid "Email"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/comments.php:84
+msgid "Comment"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/comments.php:86
+msgid "or cancel reply"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/comments.php:87
+#, php-format
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes: %s"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:68
+msgid "Install Required Plugins"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:69
+msgid "Install Plugins"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:70
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:71
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:82
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:83
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:84
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:104
+msgid "Timeliner Options"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:105
+msgid "Timeliner Settings"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:114
+msgid "Overall"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:116
+msgid "This is basic section where you can set up main settings for your website."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:122
+msgid "Site Favicon"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:123
+msgid "Please upload favicon here in PNG or JPG format. <small>(18px 18px maximum size recommended)</small>)"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:129
+msgid "Footer Copyrights"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:130
+msgid "Input footer copyrights."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:140
+msgid "SEO"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:142
+msgid "This is important part for search engines."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:148
+msgid "Keywords"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:149
+msgid "<br />Type here website keywords separated by comma. <small>(eg. lorem, ipsum, adiscipit)</small>."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:156
+msgid "Description"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:157
+msgid "<br />Type here website description."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:168
+msgid "Subscription"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:170
+msgid "Set up subscription API key and list ID."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:176
+msgid "API Key"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:177
+msgid "<br />Type your mail chimp api key."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:183
+msgid "List ID"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:184
+msgid "<br />Type here ID of the list on which users will subscribe."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:193
+msgid "Appearance"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:195
+msgid "Set up the looks."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:201
+msgid "Header Background Image"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:202
+msgid "Upload image for the header background."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:207
+msgid "Header Background Color"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:208
+msgid "Select color for the header bakground."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:216
+msgid "Title Font"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:217
+msgid "Select title font."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:226
+msgid "Text Font"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:227
+msgid "Select font for the regular text."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:236
+msgid "Body Background Image"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:237
+msgid "Select image for the body."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:243
+msgid "Body Background Color"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:244
+msgid "Select color for the body."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:252
+msgid "Main Color"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:253
+msgid "Select main color for the site."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:260
+msgid "Main Color Button Font"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:261
+msgid "Select button font color for the buttons with the main color."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:273
+msgid "Contact Page"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:275
+msgid "Contact page settings."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:280
+msgid "Contact Email"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:281
+msgid "<br />Input email where the messages should arive."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:298
+msgid "Blog Sidebar"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:304
+msgid "Appears on the right side of the blog single page."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:308
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:314
+msgid "Appears on the left side of the page."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:318
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:324
+msgid "Appears on the right side of the page."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:384
+msgid "Top Navigation"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:477
+msgid "Input url to be embeded"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:483
+msgid "Standard Post Information"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:491
+msgid "Add images for the gallery"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:498
+msgid "Gallery Post Information"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:507
+msgid "Input URL for the audio"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:513
+msgid "Select type of the audio"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:516
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:540
+msgid "Embed"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:517
+msgid "Direct Link"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:523
+msgid "Audio Post Information"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:531
+msgid "Input video URL"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:536
+msgid "Select video type"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:539
+msgid "Self Hosted"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:546
+msgid "Video Post Information"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:554
+msgid "Input the quotation"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:559
+msgid "Input the quoted person's name"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:565
+msgid "Quote Post Information"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:573
+msgid "Input link"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:579
+msgid "Link Post Information"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:1007
+msgid "All fields are required."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:1012
+msgid "E-mail address is not valid."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:1018
+msgid "Name: "
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:1019
+msgid "Email: "
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:1020
+msgid "Message: "
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:1027
+msgid "Your message was successfully submitted."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:1032
+msgid "Unexpected error while attempting to send e-mail."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:1060
+msgid "There was an error contacting the API, please try again."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:1066
+msgid "You have successuffly subscribed to the newsletter."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:1071
+msgid "API data are not yet set."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:1075
+msgid "Email is empty or invalid."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:1119
+msgid "@"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:1128
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:1137
+msgid "Reply"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:1162
+msgid "Views"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:1163
+msgid "Likes"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:1237
+msgid "This post is password protected. To view it please enter your password below:"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:1238
+msgid "Password:"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/functions.php:1291
+msgid "You have already liked this post"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/header.php:28
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/header.php:71
+msgid "Toggle navigation"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/header.php:103
+msgid "Category: "
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/header.php:107
+msgid "404 Page Not Found"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/header.php:110
+msgid "Search by tag: "
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/header.php:113
+msgid "Posts written by "
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/header.php:116
+msgid "Archive for "
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/header.php:119
+msgid "Search results for: "
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/header.php:135
+msgid "Sorry but we could not find what you are looking for"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/index.php:83
+msgid "Read more"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/index.php:207
+msgid "Nothing Found"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/index.php:211
+msgid "Sorry but we could not find anything which resembles you search criteria. Please try again using form bellow."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/page-tpl_contact.php:29
+msgid "Your name"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/page-tpl_contact.php:32
+msgid "Your email"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/page-tpl_contact.php:35
+msgid "Message subject"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/page-tpl_contact.php:38
+msgid "Your message"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/page-tpl_contact.php:41
+msgid "Send Message"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/searchform.php:3
+msgid "Search for..."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/single.php:15
+msgid "&raquo;"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/single.php:16
+msgid "&laquo;"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/single.php:93
+msgid "<i class=\"fa fa-tags\"></i> Post tags: "
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/single.php:100
+msgid "Share on Facebook"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/single.php:101
+msgid "Share on Twitter"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/single.php:102
+msgid "Share on Google+"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/single.php:103
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/single.php:104
+msgid "Share on Tumblr"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/single.php:113
+msgid "Post pages: "
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/single.php:178
+msgid "About "
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/content/content-info.php:6
+msgid "0"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/content/content-info.php:6
+msgid "1"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/content/content-info.php:6
+msgid "%"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/content/content-info.php:16
+msgid "Like ("
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/content/content-info.php:16
+msgid ")"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1949
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1950
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1950
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1956
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widget-loop.php:20
+msgid "0 comments"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widget-loop.php:20
+msgid "1 comment"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widget-loop.php:20
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:6
+msgid "Recent, popular, by views posts"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:6
+msgid "Display recent, popular, by views posts"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:18
+msgid "Posts"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:28
+msgid "Recent"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:31
+msgid "Popular"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:170
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:255
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:316
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:381
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:454
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:492
+msgid "Title:"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:173
+msgid "Number of posts to show:"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:176
+msgid "Select tabs to display:"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:178
+msgid "Recent Posts"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:179
+msgid "Popular Posts"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:180
+msgid "Posts By Views"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:190
+msgid "Timeliner Recent Comments"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:190
+msgid "Display recent comments"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:197
+msgid "Recent Comments"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:258
+msgid "Number of comments to show:"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:265
+msgid "Top Author"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:265
+msgid "Adds list of top authors."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:294
+msgid "Wrote "
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:294
+msgid "posts"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:320
+msgid "Count:"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:329
+msgid "Social Follow"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:329
+msgid "Adds list of the social icons."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:385
+msgid "Facebook:"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:389
+msgid "Twitter:"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:393
+msgid "Google +:"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:397
+msgid "Linkedin:"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:401
+msgid "YouTube:"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:405
+msgid "Pinterest:"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:409
+msgid "Flickr:"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:413
+msgid "Behance:"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:422
+msgid "Subscribe"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:422
+msgid "Adds subscribe form in the sidebar."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:436
+msgid "Input email here..."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:463
+msgid "Shortcode Text"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:463
+msgid "Text widget which can render shortcode."
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/includes/widgets.php:496
+msgid "Text:"
+msgstr ""
+
+#: C:\wamp\www\timeliner\wp-content\themes\timeliner/media/media-video.php:11
+msgid "Your browser does not support the video tag."
+msgstr ""
+
