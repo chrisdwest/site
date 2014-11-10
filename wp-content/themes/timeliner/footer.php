@@ -35,5 +35,5 @@ dynamic_sidebar('footer-sidebar-3');
 </div>
 </div>
 <div class="col-xs-12" style="text-align:center">
-<p>Copyright &copy NETpositive Futures Ltd & Stockholm Environment Institute 2014 | <a href="http://localhost/wp/#top">Terms & Conditions</a>
+<p>Copyright &copy NETpositive Futures Ltd & Stockholm Environment Institute 2014 | <a href="http://localhost/wp/terms-and-conditions">Terms & Conditions</a>
 </div>

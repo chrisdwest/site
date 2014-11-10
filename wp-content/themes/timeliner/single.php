@@ -92,7 +92,7 @@ timeliner_increase_views();
 						if( !empty( $tags ) ):
 						?>
 							<div class="post-tags">
-								<?php _e( '<i class="fa fa-tags"></i> Post tags: ', 'timeliner' ); echo $tags; ?>
+								<?php _e( '<i class="fa fa-tags"></i> Post Tags: ', 'timeliner' ); echo $tags; ?>
 							</div>
 						<?php
 						endif;
@@ -109,7 +109,23 @@ timeliner_increase_views();
 						</div>
 						-->
 					</div>
+					<?php
+				$previous = "javascript:history.go(-1)";
+				if(isset($_SERVER['HTTP_REFERER'])) {
+				$previous = $_SERVER['HTTP_REFERER'];
+				}
+				?>
+				<div class="next-prev">
+						<div class="row">
+							<div class="col-md-6 left-text">
+							<a href="<?= $previous ?>" class="btn">Go Back</a>
+							</div>
+							</div>
+							</div>
+					
 				</div>
+				
+							
 				<!--
 				<?php if( !empty( $post_pages ) ): ?>
 				<div class="white-block">
@@ -206,6 +222,7 @@ timeliner_increase_views();
 					</div>
 				</div>
 				-->	
+				
 				<?php comments_template( '', true ) ?>
 
 			</div>
