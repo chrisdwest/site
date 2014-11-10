@@ -106,15 +106,15 @@ h1 {
 }
 
 h2 {
-	font-size: 34px;
+	font-size: 26px;
 }
 
 h3 {
-	font-size: 30px;
+	font-size: 24px;
 }
 
 h4 {
-    font-size: 24px;
+    font-size: 22px;
 }
 
 h5 {
@@ -147,7 +147,7 @@ cite{
 }
 
 p{
-	font-size: 16px;
+	font-size: 14px;
 	line-height: 30px;
 	margin-bottom: 25px;
 }
@@ -759,21 +759,28 @@ table#mytable td
 	text-align:center;
 	color: #575757;
 	text-shadow: 1px 1px 2px rgba( 0, 0, 0, 0.2 );
+    margin-top:25px;
+		
+		
+		
+	
 }
 
-@media only screen and (min-width: 768px){
+@media only screen and (min-width: 768px) and (min-height: 600px){
 	.blog-title{	
 		position: absolute;
 		padding: 0px 10px;
 		margin: 0;
+		margin-top:25px;
 		top: 50%;
 		width: 100%;
 		left: 50%;
 		transform: translate(-50%,-50%);
-		-ms-transform: translate(-50%,-50%); /* IE 9 */
-		-webkit-transform: translate(-50%,-50%); /* Safari and Chrome */
+		-ms-transform: translate(-50%,-50%); /* IE 9 */ 
+		-webkit-transform: translate(-50%,-50%); /* Safari and Chrome */ 
 	}
 }
+
 .blog-title h1{
 	margin: 2px 0px;
 	color: #575757;
@@ -879,7 +886,9 @@ table#mytable td
 #navigation .nav.navbar-nav > li > a:focus ,
 #navigation .nav.navbar-nav > li > a:active,
 #navigation .nav.navbar-nav > li.current > a,
-#navigation .navbar-nav > li.current-menu-parent > a, #navigation  .navbar-nav > li.current-menu-ancestor > a, #navigation  .navbar-nav > li.current-menu-item  > a{
+#navigation .navbar-nav > li.current-menu-parent > a, 
+#navigation  .navbar-nav > li.current-menu-ancestor > a, 
+#navigation  .navbar-nav > li.current-menu-item  > a{
 	color: #575757;
 	border-color: #E74C3C;
 }
@@ -1707,6 +1716,7 @@ font-size: 0.8em;
 }
 
 #footer-sidebar1 {
+
 float: left;
 width: 340px;
 margin-left:5px;
@@ -1716,11 +1726,14 @@ margin-right:5px;
 #footer-sidebar2 {
 float: left;
 width: 340px;
+
 margin-right:5px;
 }
 
 #footer-sidebar3 {
+
 float: left;
 width: 340px;
+
 }
 

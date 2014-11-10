@@ -89,7 +89,7 @@ TOP BAR
 					</div>
 				</div>
 			</div>
-			<div class="col-md-3">
+			<div class="col-md-3" style="padding-top:5px">
 <form role="search" method="get" class="searchform" action="<?php echo esc_url( site_url('/') ); ?>">
 	<div class="timeliner-form">
 		<input type="text" value="" name="s" class="form-control" placeholder="<?php esc_attr_e( 'Search...', 'timeliner' ); ?>">
@@ -104,12 +104,19 @@ TOP BAR
 			</div>
 		</div>
 	</div>
-				<div class="blog-title">			
-					<img src="wp-content/uploads/2014/10/NPlogo7.png"> 
+	
+	
+	
+				<div class="blog-title" >			
+					
+				
+				<img src="http://localhost/wp/wp-content/uploads/2014/10/NPlogo7.png" width=150> 
+	
+	
 					<h1>
 						<?php 
 							if ( is_category() ){
-								echo __('Category: ', 'timeliner');
+								//echo __('Category: ', 'timeliner');
 								single_cat_title();
 							}
 							else if( is_404() ){
@@ -154,7 +161,9 @@ TOP BAR
 						?>
 					</smaller>
 					<p>
-					<img src='wp-content/uploads/2014/10/down-arrow-circle-md.png' >
-				</div>		
+					<img src='http://localhost/wp/wp-content/uploads/2014/10/down-arrow-circle-md.png' >
+				</div>	
+			
+	
 </section>
 
