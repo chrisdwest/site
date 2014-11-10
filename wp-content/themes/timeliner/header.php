@@ -110,7 +110,7 @@ TOP BAR
 				<div class="blog-title" >			
 					
 				
-				<img src="http://localhost/wp/wp-content/uploads/2014/10/NPlogo7.png" width=150> 
+				<img src="https://testsite-netpos.rhcloud.com/wp-content/uploads/2014/10/NPlogo7.png" width=150> 
 	
 	
 					<h1>
@@ -161,7 +161,7 @@ TOP BAR
 						?>
 					</smaller>
 					<p>
-					<img src='http://localhost/wp/wp-content/uploads/2014/10/down-arrow-circle-md.png' >
+					<img src="https://testsite-netpos.rhcloud.com/wp-content/uploads/2014/10/down-arrow-circle-md.png" >
 				</div>	
 			
 	
